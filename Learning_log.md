@@ -16,3 +16,7 @@ foundation and preparing for open-source contributions.
 - Learned how to rename files and structure repositories
 - Learned how to convert into another types
 - Learned about relational operators
+
+## Day 3
+- Learning about if-else conditional statements
+- 
