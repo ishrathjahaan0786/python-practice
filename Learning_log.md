@@ -18,5 +18,5 @@ foundation and preparing for open-source contributions.
 - Learned about relational operators
 
 ## Day 3
-- Learning about if-else conditional statements
-- 
+- Learned about if-else conditional statements
+- Learned about advanced arithmetic operators
