@@ -23,4 +23,4 @@ foundation and preparing for open-source contributions.
 
 ## Day 4
 - Learned more about while loop
-- 
+- Learned more about for loop
