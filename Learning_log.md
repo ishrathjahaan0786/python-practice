@@ -20,3 +20,7 @@ foundation and preparing for open-source contributions.
 ## Day 3
 - Learned about if-else conditional statements
 - Learned about advanced arithmetic operators
+
+## Day 4
+- Learned more about while loop
+- 
